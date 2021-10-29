@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=RF IN Old Footprint=2POS_2.54mm_PIN Header New Footprint=Molex 73251-1150
+Change Component Footprint: Designator=RF OUT Old Footprint=2POS_2.54mm_PIN Header New Footprint=Molex 73251-1150
+Change Component Footprint: Designator=POWER Old Footprint=2POS_5.08mm_Terminal New Footprint=Connector_2POS_2.54mm
+Change Component Designator: OldDesignator=POWER NewDesignator=J1
+Change Component Designator: OldDesignator=RF IN NewDesignator=J2
+Change Component Designator: OldDesignator=RF OUT NewDesignator=J3
+Change Component Library : Designator=J1 Old Library=Schlib1.SchLib New Library=Schematic_Library.SchLib
+Change Component Library : Designator=J2 Old Library=Schlib1.SchLib New Library=Schematic_Library.SchLib
+Change Component Library : Designator=J3 Old Library=Schlib1.SchLib New Library=Schematic_Library.SchLib
+Added Class: Name=S50

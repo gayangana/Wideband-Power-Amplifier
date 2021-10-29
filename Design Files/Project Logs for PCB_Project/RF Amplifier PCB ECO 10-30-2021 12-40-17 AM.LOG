@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=NetC7_2 Pin=J3-1
+Removed Pin From Net: NetName=GND Pin=J3-2
+Change Component Comment : Designator=J2 Old Comment=2 Pin Header New Comment=SMA Connector
+Added Component: Designator=J?(Molex 73251-1150)
+Added Pin To Net: NetName=GND Pin=J2-3
+Added Pin To Net: NetName=GND Pin=J2-4
+Added Pin To Net: NetName=GND Pin=J2-5
+Added Pin To Net: NetName=NetC7_2 Pin=J?-1
+Added Pin To Net: NetName=GND Pin=J?-2
+Added Pin To Net: NetName=GND Pin=J?-3
+Added Pin To Net: NetName=GND Pin=J?-4
+Added Pin To Net: NetName=GND Pin=J?-5
+Added Member To Class: ClassName=RF Amplifier Member=Component J1 2 Pin Header
+Added Member To Class: ClassName=RF Amplifier Member=Component J2 SMA Connector
+Added Member To Class: ClassName=RF Amplifier Member=Component J? SMA Connector
